@@ -144,7 +144,7 @@ Source code приложения со всеми commits размещен в п�
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_shreder.gif)
 
 ## Shoutouts
-* [Nirsoft](http://www.nirsoft.net) by [Nir Sofer](nirsofer@yahoo.com)
+* [Nirsoft](http://www.nirsoft.net) by [Nir Sofer](mailto:nirsofer@yahoo.com)
 * [USB Oblivion](https://www.cherubicsoft.com/projects/usboblivion) by [Николай Распопов](https://plus.google.com/113807765564201615331?rel=author)
 * [Regdiff](http://www.p-nand-q.com/download/regdiff.html) by [Gerson Kurz](http://www.p-nand-q.com) ([Liberal BSD-style license](http://www.linfo.org/bsdlicense))
 * [Metadata Extractor](https://github.com/drewnoakes/metadata-extractor) by [Drew Noakes](https://github.com/drewnoakes) ([Apache License 2.0](https://github.com/drewnoakes/metadata-extractor/blob/master/LICENSE))
