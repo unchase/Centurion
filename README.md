@@ -43,7 +43,6 @@
   </tr>
 </table>
 
-
 ### Commit statistics (on 13 august 2018)
 
 Source code приложения со всеми commits размещен в приватном репозитории [Centurion](https://bitbucket.org/unchase/centurion).
@@ -155,4 +154,3 @@ Source code приложения со всеми commits размещен в п�
 * Source code (private repository): [bitbucket.org/unchase/centurion](https://bitbucket.org/unchase/centurion)
 * Issue tracker: [![GitHub issues](https://img.shields.io/github/issues/unchase/centurion/shields.svg?style=flat-square)](https://github.com/unchase/Centurion/issues)
 * Wiki: [github.com/unchase/centurion/wiki](https://github.com/unchase/centurion/wiki)
-
