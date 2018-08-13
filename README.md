@@ -51,7 +51,7 @@ Source code приложения со всеми commits размещен в п�
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits.png)
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits2.png)
 
-## How to get
+## How to get (beta-testing)
 
 Чтобы получить файл лицензии для входа в [Centurion](http://github.com/unchase/centurion) необходимо отправить email по адресу [centurionunchase@gmail.com](mailto:centurionunchase@gmail.com) с указанием желаемого срока окончания действия лицензии и именем для входа (login name), заголовок письма - "Centurion License".<br/>
 К email необходимо приложить файл "license.bin", который будет создан в корневом каталоге программы при ее запуске.<br/><br/>
