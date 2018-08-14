@@ -30,7 +30,7 @@
   </tr>
   <tr>
     <td>Runtime environment</td>
-    <td>MS Windows Vista <br/>MS Windows MS 7/8/8.1/10<br/>MS Windows Server 2008/2012/2016<br/>.NET Framework 4.5.2+</td>
+    <td>MS Windows Vista <br/>MS Windows 7/8/8.1/10<br/>MS Windows Server 2008/2012/2016<br/>.NET Framework 4.5.2+</td>
     <td>No official support</td>
   </tr>
   <tr>
