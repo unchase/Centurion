@@ -152,7 +152,7 @@ Source code приложения со всеми commits размещен в п�
 * [Metadata Extractor](https://github.com/drewnoakes/metadata-extractor) by [Drew Noakes](https://github.com/drewnoakes) ([Apache License 2.0](https://github.com/drewnoakes/metadata-extractor/blob/master/LICENSE))
 
 ## Links
-* Website: [![Website centurion.unchase.ru](https://img.shields.io/website-up-down-green-red/http/centurion.unchase.ru.svg?style=flat-square)](http://centurion.unchase.ru/)
 * Source code (private repository): <a href="https://bitbucket.org/unchase/centurion" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20source%20code%20(private%20repository)-go-blue.svg?style=flat-square" alt="Bitbucket Source code (private repository)"></a>
 * Issue tracker: [![GitHub issues](https://img.shields.io/github/issues/unchase/centurion/shields.svg?style=flat-square)](https://github.com/unchase/Centurion/issues) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/unchase/centurion.svg?style=flat-square)](https://GitHub.com/unchase/centurion/issues?q=is%3Aissue+is%3Aclosed)
+* Website: [![Website centurion.unchase.ru](https://img.shields.io/website-up-down-green-red/http/centurion.unchase.ru.svg?style=flat-square)](http://centurion.unchase.ru/)
 * Wiki: <a href="https://github.com/unchase/centurion/wiki" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Wiki-go-blue.svg?style=flat-square" alt="Github Wiki"></a>
