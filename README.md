@@ -47,10 +47,11 @@
 
 ### Commits statistics (on 13 august 2018)
 
-Source code приложения со всеми commits размещен в приватном репозитории [Centurion](https://bitbucket.org/unchase/centurion). <br/><br/><a href="https://bitbucket.org/unchase/Centurion/commits" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20commits%20on%2013%20august,%202018-211-blue.svg?style=flat-square" alt="Bitbucket Commits (all)"></a>
+Source code приложения со всеми commits размещен в приватном репозитории Centurion: <a href="https://bitbucket.org/unchase/centurion" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20source%20code%20(private%20repository)-go-blue.svg?style=flat-square" alt="Bitbucket Source code (private repository)"></a> <br/>
 
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits.png)
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits2.png)
+<br/><a href="https://bitbucket.org/unchase/Centurion/commits" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20commits%20on%2013%20august,%202018-211-blue.svg?style=flat-square" alt="Bitbucket Commits (all)"></a>
 
 ## How to get (get in beta-testing)
 
@@ -70,7 +71,7 @@ Source code приложения со всеми commits размещен в п�
 
 - Поиск заданной строки ([регулярного выражения](https://wikipedia.org/wiki/Regular_expression)) в именах/значениях параметров и именах разделов реестра.
 - Фильтрация: по диапазону дат, по типам данных, по способу сравнения. 
-- Исключение определенных разделов из поиска.
+- Исключение определенных разделов реестра из поиска.
 - Определение расхождений текущего состояния реестра с экспортированным файлом реестра с помощью [Regdiff](http://www.p-nand-q.com/download/regdiff.html).
 - Уточнение (отбор) найденных значений.
 - Удаление выбранных значений/разделов из реестра.
@@ -96,7 +97,7 @@ Source code приложения со всеми commits размещен в п�
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_filesystem_search.gif)
 
 ### Hardware and system information
-* Получение информации о компьютере (локальной и удаленной машины) с помощью [WMI](https://wikipedia.org/wiki/Windows_Management_Instrumentation).
+* Получение информации о компьютере (на локальной и удаленной машине) с помощью [WMI](https://wikipedia.org/wiki/Windows_Management_Instrumentation).
 * Поиск и экспорт данных в выведенных результатах.
 
 ----------
@@ -109,7 +110,7 @@ Source code приложения со всеми commits размещен в п�
 * Вывод записей из [MFT](https://wikipedia.org/wiki/Master_File_Table) логических дисков.
 * Управление журналами событий Windows (создание, удаление, очистка, поиск событий).
 * Управление службами Windows.
-* Стирание информации о подключенных к компьютеру USB-устройствах с помощью [USB Oblivion](https://www.cherubicsoft.com/projects/usboblivion).
+* Стирание информации о подключенных ранее к компьютеру USB-устройствах с помощью [USB Oblivion](https://www.cherubicsoft.com/projects/usboblivion).
 * Управление утилитами [Nirsoft](http://www.nirsoft.net).
 * **"Проводник безопасности"**.
 
@@ -139,7 +140,7 @@ Source code приложения со всеми commits размещен в п�
 
 ### Data shreder
 * Очистка свободного места на логическом диске (стирание следов, оставшихся после удаления файлов и каталогов).
-* Гарантированное (безвозвратное) стирание файлов и каталогов с файлами с возможностью выбора метода ([ГОСТ 50739-95](http://docs.cntd.ru/document/gost-r-50739-95), DOD 5220.22-M, Peter Gutmann, Bruce Shneier и др.).
+* Гарантированное (безвозвратное) стирание файлов и каталогов с файлами с возможностью выбора метода стирания ([ГОСТ 50739-95](http://docs.cntd.ru/document/gost-r-50739-95), DOD 5220.22-M, Peter Gutmann, Bruce Shneier и др.).
 
 ----------
 
