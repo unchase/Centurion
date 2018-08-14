@@ -150,7 +150,7 @@ Source code приложения со всеми commits размещен в п�
 * [Metadata Extractor](https://github.com/drewnoakes/metadata-extractor) by [Drew Noakes](https://github.com/drewnoakes) ([Apache License 2.0](https://github.com/drewnoakes/metadata-extractor/blob/master/LICENSE))
 
 ## Links
-* Website: [centurion.unchase.ru](https://centurion.unchase.ru/) [![Website centurion.unchase.ru](https://img.shields.io/website-up-down-green-red/http/centurion.unchase.ru.svg)](http://centurion.unchase.ru/)
+* Website: [centurion.unchase.ru](https://centurion.unchase.ru/) [![Website centurion.unchase.ru](https://img.shields.io/website-up-down-green-red/http/centurion.unchase.ru.svg?style=flat-square)](http://centurion.unchase.ru/)
 * Source code (private repository): [bitbucket.org/unchase/centurion](https://bitbucket.org/unchase/centurion)
 * Issue tracker: [![GitHub issues](https://img.shields.io/github/issues/unchase/centurion/shields.svg?style=flat-square)](https://github.com/unchase/Centurion/issues)
 * Wiki: [github.com/unchase/centurion/wiki](https://github.com/unchase/centurion/wiki)
