@@ -7,7 +7,9 @@
 
 Для работы программы необходимо наличие [.NET Framework 4.5.2](https://www.microsoft.com/RU-RU/download/details.aspx?id=42642) или выше.
 
-<a href="https://github.com/unchase/Centurion/releases/latest" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/github/downloads/unchase/centurion/total.svg?maxAge=86400&&style=flat-square" alt="GitHub Releases (latest)"></a>
+<a href="https://github.com/unchase/Centurion/releases/latest" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/github/downloads/unchase/centurion/total.svg?maxAge=86400&&style=flat-square" alt="GitHub Releases (latest)"></a> 
+![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/unchase/centurion.svg?style=flat-square)
+
 
 ## Supported OS
 * Windows Vista
@@ -45,7 +47,7 @@
 
 ### Commit statistics (on 13 august 2018)
 
-Source code приложения со всеми commits размещен в приватном репозитории [Centurion](https://bitbucket.org/unchase/centurion).
+Source code приложения со всеми commits размещен в приватном репозитории [Centurion](https://bitbucket.org/unchase/centurion). <a href="https://bitbucket.org/unchase/Centurion/commits" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20commits%20on%2013%20august,%202018-211-blue.svg?style=flat-square" alt="Bitbucket Commits (all)"></a>
 
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits.png)
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits2.png)
@@ -152,5 +154,5 @@ Source code приложения со всеми commits размещен в п�
 ## Links
 * Website: [centurion.unchase.ru](https://centurion.unchase.ru/) [![Website centurion.unchase.ru](https://img.shields.io/website-up-down-green-red/http/centurion.unchase.ru.svg?style=flat-square)](http://centurion.unchase.ru/)
 * Source code (private repository): [bitbucket.org/unchase/centurion](https://bitbucket.org/unchase/centurion)
-* Issue tracker: [![GitHub issues](https://img.shields.io/github/issues/unchase/centurion/shields.svg?style=flat-square)](https://github.com/unchase/Centurion/issues)
+* Issue tracker: [![GitHub issues](https://img.shields.io/github/issues/unchase/centurion/shields.svg?style=flat-square)](https://github.com/unchase/Centurion/issues) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/unchase/centurion.svg?style=flat-square)](https://GitHub.com/unchase/centurion/issues?q=is%3Aissue+is%3Aclosed)
 * Wiki: [github.com/unchase/centurion/wiki](https://github.com/unchase/centurion/wiki)
