@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td><strong>Latest Pre-Release (v1.0 BETA)</strong></td>
-    <td>GitHub: <a href="https://github.com/unchase/Centurion/releases" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/github/downloads-pre/unchase/Centurion/latest/total.svg?maxAge=86400&&style=flat-square" alt="GitHub Releases (latest)"></a></td>
+    <td>GitHub: <a href="https://github.com/unchase/Centurion/releases" target="_blank"><img src="https://img.shields.io/github/downloads-pre/unchase/Centurion/latest/total.svg?maxAge=86400&&style=flat-square" alt="GitHub Releases (latest)"></a></td>
     <td>No official support</td>
   </tr>
 </table>
@@ -49,8 +49,8 @@
 
 Source code приложения со всеми commits размещен в приватном репозитории Centurion: <br/><br/><a href="https://bitbucket.org/unchase/centurion" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20source%20code%20(private%20repository)-go-blue.svg?style=flat-square" alt="Bitbucket Source code (private repository)"></a> <br/>
 
-![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits.png)
-![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits2.png)
+![Centurion commits](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits.png)
+![Centurion commits2](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits2.png)
 <br/><a href="https://bitbucket.org/unchase/Centurion/commits" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20commits%20on%2013%20august,%202018-211-blue.svg?style=flat-square" alt="Bitbucket Commits (all)"></a>
 
 ## How to get (get in beta-testing)
@@ -81,7 +81,7 @@ Source code приложения со всеми commits размещен в п�
 
 ----------
 
-![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_registry.gif)
+![Centurion registry](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_registry.gif)
 
 ### File search
 *Поддерживаются следующие функции, связанные с поиском в файловой системе:*
@@ -94,7 +94,7 @@ Source code приложения со всеми commits размещен в п�
 
 ----------
 
-![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_filesystem_search.gif)
+![Centurion filesystem search](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_filesystem_search.gif)
 
 ### Hardware and system information
 * Получение информации о компьютере (на локальной и удаленной машине) с помощью [WMI](https://wikipedia.org/wiki/Windows_Management_Instrumentation).
@@ -102,7 +102,7 @@ Source code приложения со всеми commits размещен в п�
 
 ----------
 
-![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_hardware_info.gif)
+![Centurion hardware info](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_hardware_info.gif)
 
 ### System
 * Получение различных данных о накопителях и логических дисках (тип, модель, вместимость, серийный номер и пр.).
@@ -116,7 +116,7 @@ Source code приложения со всеми commits размещен в п�
 
 ----------
 
-![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_system.gif)
+![Centurion system](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_system.gif)
 
 ### Security Browser
 
@@ -144,7 +144,7 @@ Source code приложения со всеми commits размещен в п�
 
 ----------
 
-![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_shreder.gif)
+![Centurion shrefer](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_shreder.gif)
 
 ## Shoutouts
 * [Nirsoft](http://www.nirsoft.net) by [Nir Sofer](mailto:nirsofer@yahoo.com)
