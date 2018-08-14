@@ -8,7 +8,7 @@
 Для работы программы необходимо наличие [.NET Framework 4.5.2](https://www.microsoft.com/RU-RU/download/details.aspx?id=42642) или выше.
 
 <a href="https://github.com/unchase/Centurion/releases/latest" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/github/downloads/unchase/centurion/total.svg?maxAge=86400&&style=flat-square" alt="GitHub Releases (latest)"></a> 
-![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/unchase/centurion.svg?style=flat-square)
+[![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/unchase/centurion.svg?style=flat-square)](https://github.com/unchase/Centurion/releases/latest)
 
 
 ## Supported OS
