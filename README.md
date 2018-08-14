@@ -7,7 +7,7 @@
 
 Для работы программы необходимо наличие [.NET Framework 4.5.2](https://www.microsoft.com/RU-RU/download/details.aspx?id=42642) или выше.
 
-<a href="https://github.com/unchase/Centurion/releases/latest" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/github/downloads/unchase/centurion/total.svg?maxAge=86400&&style=flat-square" alt="GitHub Releases (latest)"></a> 
+<a href="https://github.com/unchase/Centurion/releases/latest" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/github/downloads/unchase/centurion/total.svg?maxAge=86400&&style=flat-square" alt="GitHub Releases (latest)"></a> 
 [![GitHub (Pre-)Release Date](https://img.shields.io/github/release-date-pre/unchase/centurion.svg?style=flat-square)](https://github.com/unchase/Centurion/releases/latest)
 
 
@@ -40,18 +40,18 @@
   </tr>
   <tr>
     <td><strong>Latest Pre-Release (v1.0 BETA)</strong></td>
-    <td>GitHub: <a href="https://github.com/unchase/Centurion/releases" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/github/downloads-pre/unchase/Centurion/latest/total.svg?maxAge=86400&&style=flat-square" alt="GitHub Releases (latest)"></a></td>
+    <td>GitHub: <a href="https://github.com/unchase/Centurion/releases" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/github/downloads-pre/unchase/Centurion/latest/total.svg?maxAge=86400&&style=flat-square" alt="GitHub Releases (latest)"></a></td>
     <td>No official support</td>
   </tr>
 </table>
 
 ### Commits statistics (on 13 august 2018)
 
-Source code приложения со всеми commits размещен в приватном репозитории Centurion: <br/><br/><a href="https://bitbucket.org/unchase/centurion" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20source%20code%20(private%20repository)-go-blue.svg?style=flat-square" alt="Bitbucket Source code (private repository)"></a> <br/>
+Source code приложения со всеми commits размещен в приватном репозитории Centurion: <br/><br/><a href="https://bitbucket.org/unchase/centurion" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20source%20code%20(private%20repository)-go-blue.svg?style=flat-square" alt="Bitbucket Source code (private repository)"></a> <br/>
 
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits.png)
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits2.png)
-<br/><a href="https://bitbucket.org/unchase/Centurion/commits" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20commits%20on%2013%20august,%202018-211-blue.svg?style=flat-square" alt="Bitbucket Commits (all)"></a>
+<br/><a href="https://bitbucket.org/unchase/Centurion/commits" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20commits%20on%2013%20august,%202018-211-blue.svg?style=flat-square" alt="Bitbucket Commits (all)"></a>
 
 ## How to get (get in beta-testing)
 
@@ -153,7 +153,7 @@ Source code приложения со всеми commits размещен в п�
 * [Metadata Extractor](https://github.com/drewnoakes/metadata-extractor) by [Drew Noakes](https://github.com/drewnoakes) ([Apache License 2.0](https://github.com/drewnoakes/metadata-extractor/blob/master/LICENSE))
 
 ## Links
-* Source code (private repository): <a href="https://bitbucket.org/unchase/centurion" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20source%20code%20(private%20repository)-go-blue.svg?style=flat-square" alt="Bitbucket Source code (private repository)"></a>
+* Source code (private repository): <a href="https://bitbucket.org/unchase/centurion" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20source%20code%20(private%20repository)-go-blue.svg?style=flat-square" alt="Bitbucket Source code (private repository)"></a>
 * Issue tracker: [![GitHub issues](https://img.shields.io/github/issues/unchase/centurion/shields.svg?style=flat-square)](https://github.com/unchase/Centurion/issues) [![GitHub issues-closed](https://img.shields.io/github/issues-closed/unchase/centurion.svg?style=flat-square)](https://GitHub.com/unchase/centurion/issues?q=is%3Aissue+is%3Aclosed)
 * Website: [![Website centurion.unchase.ru](https://img.shields.io/website-up-down-green-red/http/centurion.unchase.ru.svg?style=flat-square)](http://centurion.unchase.ru/)
-* Wiki: <a href="https://github.com/unchase/centurion/wiki" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Wiki-go-blue.svg?style=flat-square" alt="Github Wiki"></a>
+* Wiki: <a href="https://github.com/unchase/centurion/wiki" rel="nofollow" target="_blank" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Wiki-go-blue.svg?style=flat-square" alt="Github Wiki"></a>
