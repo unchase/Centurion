@@ -1,5 +1,7 @@
 ![Centurion logo](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_logo.png) 
 
+## Centurion
+
 Программное средство Centurion предназначено для проведения аудита информационной безопасности объектов вычислительной техники на базе операционных систем семейства Windows.
 
 Для работы программы необходимо наличие [.NET Framework 4.5.2](https://www.microsoft.com/RU-RU/download/details.aspx?id=42642) или выше.
