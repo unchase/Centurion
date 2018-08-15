@@ -47,7 +47,7 @@
 
 ### Commits statistics (on 13 august 2018)
 
-<a href="https://bitbucket.org/unchase/centurion" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/Bitbucket%20source%20code%20(private%20repository)-go-blue.svg?style=flat-square" alt="Bitbucket Source code (private repository)"></a> содержит <a href="https://bitbucket.org/unchase/Centurion/commits" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/commits%20on%2013%20august,%202018-211-blue.svg?style=flat-square" alt="Bitbucket Commits (all)"></a>.<br/>
+Исходный код на Bitbucket (private repository) содержит <a href="https://bitbucket.org/unchase/Centurion/commits" target="_blank" rel="nofollow" style="vertical-align: -webkit-baseline-middle;"><img src="https://img.shields.io/badge/commits%20on%2013%20august,%202018-211-blue.svg?style=flat-square" alt="Bitbucket Commits (all)"></a>.<br/>
 
 ![Centurion commits](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits.png)
 ![Centurion commits2](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_commits2.png)
