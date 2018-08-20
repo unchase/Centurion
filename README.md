@@ -59,7 +59,7 @@
 
 ----------
 Также можно воспользоваться кнопкой "Получить лицензию".<br/>
-
+ 
 ![Centurion login](https://raw.githubusercontent.com/unchase/centurion/master/images/centurion_login.gif)
 
 ## Features
